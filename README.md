@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Airam 👋
 
-<!--
-**airamfernandez/airamfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in software development, data analysis and machine learning.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Advanced Statistics Project
+University project focused on analysing a dataset using statistical and machine learning techniques, including Linear Regression, Logistic Regression, PCA, Correspondence Analysis and Clustering.
+
+### 💻 Sports Center Management System
+Client-server application developed in C for managing a sports center, with a command-line interface.
+
+## Technologies
+
+R · C · C++ · Git
